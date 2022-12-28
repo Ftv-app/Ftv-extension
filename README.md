@@ -9,6 +9,7 @@ An emote extension for Fansly which adds support for emotes from popular emote e
 - Support for emotes from popular emote extensions
 
 ## Planned Features
+- Frequently used emotes
 - Custom emote support
 - Message timestamp support
 - Option Menu
