@@ -1,7 +1,8 @@
 ### Ftv Changelog
 
 21.02.23
-- FEAT: Ability for creators to link their tip alerts (StreamElements)
+- FEAT: Ability for creators to link their tip alerts (StreamElements, preview: https://fansly.com/post/484474663204827136)
+- FEAT: Added changlog popup on update/install
 - FIX: Global Twitch emotes
 - MISC: Switched to selfhosted backend (fanslyapi.zergo0.dev)
 
