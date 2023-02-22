@@ -1,5 +1,12 @@
 ### Ftv Changelog
 
+22.02.23
+- FIX: Icon color of new tip link button not displaying correctly
+- FIX: Popup after click on tip link button not working
+- FIX: Tip messages not getting parsed correctly
+- FIX: Emotebutton not appearing
+- FIX: Emotebutton appearing delayed
+
 21.02.23
 - FEAT: Ability for creators to link their tip alerts (StreamElements, preview: https://fansly.com/post/484474663204827136)
 - FEAT: Added changlog popup on update/install
