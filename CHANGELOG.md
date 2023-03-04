@@ -1,5 +1,8 @@
 ### Ftv Changelog
 
+04.03.23
+- FIX: isVerified check not working correctly
+
 22.02.23
 - FIX: Icon color of new tip link button not displaying correctly
 - FIX: Popup after click on tip link button not working
