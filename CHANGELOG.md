@@ -1,5 +1,8 @@
 ### Ftv Changelog
 
+15.03.23
+- FIX: Added compatibility for new Fansly chat design
+
 04.03.23
 - FIX: isVerified check not working correctly
 
